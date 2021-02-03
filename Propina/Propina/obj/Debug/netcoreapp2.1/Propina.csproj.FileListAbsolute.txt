@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\Propina\Propina\bin\Debug\netcoreapp2.1\Propina.deps.json
+C:\Users\Kevin\source\repos\Propina\Propina\bin\Debug\netcoreapp2.1\Propina.runtimeconfig.json
+C:\Users\Kevin\source\repos\Propina\Propina\bin\Debug\netcoreapp2.1\Propina.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Propina\Propina\bin\Debug\netcoreapp2.1\Propina.dll
+C:\Users\Kevin\source\repos\Propina\Propina\bin\Debug\netcoreapp2.1\Propina.pdb
+C:\Users\Kevin\source\repos\Propina\Propina\obj\Debug\netcoreapp2.1\Propina.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Propina\Propina\obj\Debug\netcoreapp2.1\Propina.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Propina\Propina\obj\Debug\netcoreapp2.1\Propina.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Propina\Propina\obj\Debug\netcoreapp2.1\Propina.dll
+C:\Users\Kevin\source\repos\Propina\Propina\obj\Debug\netcoreapp2.1\Propina.pdb

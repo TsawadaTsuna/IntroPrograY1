@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\bin\Debug\netcoreapp2.1\peso en planetas.deps.json
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\bin\Debug\netcoreapp2.1\peso en planetas.runtimeconfig.json
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\bin\Debug\netcoreapp2.1\peso en planetas.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\bin\Debug\netcoreapp2.1\peso en planetas.dll
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\bin\Debug\netcoreapp2.1\peso en planetas.pdb
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\obj\Debug\netcoreapp2.1\peso en planetas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\obj\Debug\netcoreapp2.1\peso en planetas.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\obj\Debug\netcoreapp2.1\peso en planetas.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\obj\Debug\netcoreapp2.1\peso en planetas.dll
+C:\Users\Kevin\source\repos\peso en planetas\peso en planetas\obj\Debug\netcoreapp2.1\peso en planetas.pdb
