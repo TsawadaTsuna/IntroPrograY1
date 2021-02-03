@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\bin\Debug\netcoreapp2.1\Cambio de divisas condicional.deps.json
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\bin\Debug\netcoreapp2.1\Cambio de divisas condicional.runtimeconfig.json
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\bin\Debug\netcoreapp2.1\Cambio de divisas condicional.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\bin\Debug\netcoreapp2.1\Cambio de divisas condicional.dll
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\bin\Debug\netcoreapp2.1\Cambio de divisas condicional.pdb
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\obj\Debug\netcoreapp2.1\Cambio de divisas condicional.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\obj\Debug\netcoreapp2.1\Cambio de divisas condicional.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\obj\Debug\netcoreapp2.1\Cambio de divisas condicional.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\obj\Debug\netcoreapp2.1\Cambio de divisas condicional.dll
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\obj\Debug\netcoreapp2.1\Cambio de divisas condicional.pdb
+C:\Users\Kevin\source\repos\Cambio de divisas condicional\Cambio de divisas condicional\obj\Debug\netcoreapp2.1\Cambio de divisas condicional.csprojAssemblyReference.cache

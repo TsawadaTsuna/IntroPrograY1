@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Billetes\Billetes\bin\Debug\netcoreapp2.1\Billetes.deps.json
+C:\Users\Kevin\source\repos\Billetes\Billetes\bin\Debug\netcoreapp2.1\Billetes.runtimeconfig.json
+C:\Users\Kevin\source\repos\Billetes\Billetes\bin\Debug\netcoreapp2.1\Billetes.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Billetes\Billetes\bin\Debug\netcoreapp2.1\Billetes.dll
+C:\Users\Kevin\source\repos\Billetes\Billetes\bin\Debug\netcoreapp2.1\Billetes.pdb
+C:\Users\Kevin\source\repos\Billetes\Billetes\obj\Debug\netcoreapp2.1\Billetes.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Billetes\Billetes\obj\Debug\netcoreapp2.1\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Billetes\Billetes\obj\Debug\netcoreapp2.1\Billetes.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Billetes\Billetes\obj\Debug\netcoreapp2.1\Billetes.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Billetes\Billetes\obj\Debug\netcoreapp2.1\Billetes.dll
+C:\Users\Kevin\source\repos\Billetes\Billetes\obj\Debug\netcoreapp2.1\Billetes.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\bin\Debug\netcoreapp2.1\Cambio de divisas.deps.json
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\bin\Debug\netcoreapp2.1\Cambio de divisas.runtimeconfig.json
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\bin\Debug\netcoreapp2.1\Cambio de divisas.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\bin\Debug\netcoreapp2.1\Cambio de divisas.dll
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\bin\Debug\netcoreapp2.1\Cambio de divisas.pdb
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\obj\Debug\netcoreapp2.1\Cambio de divisas.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\obj\Debug\netcoreapp2.1\Cambio de divisas.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\obj\Debug\netcoreapp2.1\Cambio de divisas.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\obj\Debug\netcoreapp2.1\Cambio de divisas.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\obj\Debug\netcoreapp2.1\Cambio de divisas.dll
+C:\Users\Kevin\source\repos\Cambio de divisas\Cambio de divisas\obj\Debug\netcoreapp2.1\Cambio de divisas.pdb
