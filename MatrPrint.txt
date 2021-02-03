@@ -1,0 +1,40 @@
+﻿A matrix its a list of lists
+
+Elements of the 
+ 
+1
+ 
+ sublist:
+
+1
+
+2
+
+3
+
+Elements of the 
+ 
+2
+ 
+ sublist:
+
+4
+
+5
+
+6
+
+Elements of the 
+ 
+3
+ 
+ sublist:
+
+7
+
+8
+
+9
+
+El subproceso 0x1 terminó con código 0 (0x0).
+El programa 'python.exe' terminó con código 0 (0x0).
