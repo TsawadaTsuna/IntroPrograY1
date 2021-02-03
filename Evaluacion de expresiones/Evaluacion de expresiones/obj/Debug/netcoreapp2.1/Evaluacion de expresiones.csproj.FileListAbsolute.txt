@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\bin\Debug\netcoreapp2.1\Evaluacion de expresiones.deps.json
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\bin\Debug\netcoreapp2.1\Evaluacion de expresiones.runtimeconfig.json
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\bin\Debug\netcoreapp2.1\Evaluacion de expresiones.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\bin\Debug\netcoreapp2.1\Evaluacion de expresiones.dll
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\bin\Debug\netcoreapp2.1\Evaluacion de expresiones.pdb
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\obj\Debug\netcoreapp2.1\Evaluacion de expresiones.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\obj\Debug\netcoreapp2.1\Evaluacion de expresiones.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\obj\Debug\netcoreapp2.1\Evaluacion de expresiones.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\obj\Debug\netcoreapp2.1\Evaluacion de expresiones.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\obj\Debug\netcoreapp2.1\Evaluacion de expresiones.dll
+C:\Users\Kevin\source\repos\Evaluacion de expresiones\Evaluacion de expresiones\obj\Debug\netcoreapp2.1\Evaluacion de expresiones.pdb

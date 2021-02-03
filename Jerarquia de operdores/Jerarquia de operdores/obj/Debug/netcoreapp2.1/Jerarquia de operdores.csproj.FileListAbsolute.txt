@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\obj\Debug\netcoreapp2.1\Jerarquia de operdores.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\obj\Debug\netcoreapp2.1\Jerarquia de operdores.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\obj\Debug\netcoreapp2.1\Jerarquia de operdores.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\obj\Debug\netcoreapp2.1\Jerarquia de operdores.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\bin\Debug\netcoreapp2.1\Jerarquia de operdores.deps.json
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\bin\Debug\netcoreapp2.1\Jerarquia de operdores.runtimeconfig.json
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\bin\Debug\netcoreapp2.1\Jerarquia de operdores.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\bin\Debug\netcoreapp2.1\Jerarquia de operdores.dll
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\bin\Debug\netcoreapp2.1\Jerarquia de operdores.pdb
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\obj\Debug\netcoreapp2.1\Jerarquia de operdores.dll
+C:\Users\Kevin\source\repos\Jerarquia de operdores\Jerarquia de operdores\obj\Debug\netcoreapp2.1\Jerarquia de operdores.pdb
