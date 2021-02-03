@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\bin\Debug\netcoreapp2.1\Max Date Time.deps.json
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\bin\Debug\netcoreapp2.1\Max Date Time.runtimeconfig.json
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\bin\Debug\netcoreapp2.1\Max Date Time.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\bin\Debug\netcoreapp2.1\Max Date Time.dll
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\bin\Debug\netcoreapp2.1\Max Date Time.pdb
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\obj\Debug\netcoreapp2.1\Max Date Time.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\obj\Debug\netcoreapp2.1\Max Date Time.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\obj\Debug\netcoreapp2.1\Max Date Time.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\obj\Debug\netcoreapp2.1\Max Date Time.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\obj\Debug\netcoreapp2.1\Max Date Time.dll
+C:\Users\Kevin\source\repos\Max Date Time\Max Date Time\obj\Debug\netcoreapp2.1\Max Date Time.pdb
