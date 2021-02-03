@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\random\random\obj\Debug\netcoreapp2.1\random.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\random\random\obj\Debug\netcoreapp2.1\random.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\random\random\obj\Debug\netcoreapp2.1\random.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\random\random\obj\Debug\netcoreapp2.1\random.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\random\random\bin\Debug\netcoreapp2.1\random.deps.json
+C:\Users\Kevin\source\repos\random\random\bin\Debug\netcoreapp2.1\random.runtimeconfig.json
+C:\Users\Kevin\source\repos\random\random\bin\Debug\netcoreapp2.1\random.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\random\random\bin\Debug\netcoreapp2.1\random.dll
+C:\Users\Kevin\source\repos\random\random\bin\Debug\netcoreapp2.1\random.pdb
+C:\Users\Kevin\source\repos\random\random\obj\Debug\netcoreapp2.1\random.dll
+C:\Users\Kevin\source\repos\random\random\obj\Debug\netcoreapp2.1\random.pdb
