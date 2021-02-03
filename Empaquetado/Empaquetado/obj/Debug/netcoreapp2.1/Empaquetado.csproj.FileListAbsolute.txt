@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\bin\Debug\netcoreapp2.1\Empaquetado.deps.json
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\bin\Debug\netcoreapp2.1\Empaquetado.runtimeconfig.json
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\bin\Debug\netcoreapp2.1\Empaquetado.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\bin\Debug\netcoreapp2.1\Empaquetado.dll
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\bin\Debug\netcoreapp2.1\Empaquetado.pdb
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\obj\Debug\netcoreapp2.1\Empaquetado.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\obj\Debug\netcoreapp2.1\Empaquetado.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\obj\Debug\netcoreapp2.1\Empaquetado.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\obj\Debug\netcoreapp2.1\Empaquetado.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\obj\Debug\netcoreapp2.1\Empaquetado.dll
+C:\Users\Kevin\source\repos\Empaquetado\Empaquetado\obj\Debug\netcoreapp2.1\Empaquetado.pdb
