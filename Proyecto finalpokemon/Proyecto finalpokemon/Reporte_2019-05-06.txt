@@ -1,0 +1,65 @@
+Reporte de Pokemones con mejores estadisticas por generacion
+
+Generacion 1
+
+Maximos puntos de vida: Chansey
+Maximos puntos de ataque: MewtwoMega Mewtwo X
+Maximos puntos de defensa: SlowbroMega Slowbro
+Maximos puntos de ataque especial: MewtwoMega Mewtwo Y
+Maximos puntos de defensa especial: GyaradosMega Gyarados
+Maximos puntos de velocidad: AlakazamMega Alakazam
+
+---------------------------------------------------------------------
+
+Generacion 2
+
+Maximos puntos de vida: Blissey
+Maximos puntos de ataque: HeracrossMega Heracross
+Maximos puntos de defensa: SteelixMega Steelix
+Maximos puntos de ataque especial: AmpharosMega Ampharos
+Maximos puntos de defensa especial: Shuckle
+Maximos puntos de velocidad: Crobat
+
+---------------------------------------------------------------------
+
+Generacion 3
+
+Maximos puntos de vida: Wailord
+Maximos puntos de ataque: GroudonPrimal Groudon
+Maximos puntos de defensa: AggronMega Aggron
+Maximos puntos de ataque especial: KyogrePrimal Kyogre
+Maximos puntos de defensa especial: Regice
+Maximos puntos de velocidad: DeoxysSpeed Forme
+
+---------------------------------------------------------------------
+
+Generacion 4
+
+Maximos puntos de vida: Drifblim
+Maximos puntos de ataque: GarchompMega Garchomp
+Maximos puntos de defensa: Bastiodon
+Maximos puntos de ataque especial: Dialga
+Maximos puntos de defensa especial: Probopass
+Maximos puntos de velocidad: LopunnyMega Lopunny
+
+---------------------------------------------------------------------
+
+Generacion 5
+
+Maximos puntos de vida: Alomomola
+Maximos puntos de ataque: KyuremBlack Kyurem
+Maximos puntos de defensa: Cofagrigus
+Maximos puntos de ataque especial: KyuremWhite Kyurem
+Maximos puntos de defensa especial: Cryogonal
+Maximos puntos de velocidad: Accelgor
+
+---------------------------------------------------------------------
+
+Generacion 6
+
+Maximos puntos de vida: Xerneas
+Maximos puntos de ataque: DiancieMega Diancie
+Maximos puntos de defensa: Avalugg
+Maximos puntos de ataque especial: HoopaHoopa Unbound
+Maximos puntos de defensa especial: Florges
+Maximos puntos de velocidad: Talonflame

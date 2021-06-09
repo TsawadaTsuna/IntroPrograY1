@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejemplos ciclos", "Ejemplos ciclos\Ejemplos ciclos.pyproj", "{C2064F9F-3D37-41B5-8F69-3C3D799C6698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2064F9F-3D37-41B5-8F69-3C3D799C6698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2064F9F-3D37-41B5-8F69-3C3D799C6698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {632420FF-529D-4A18-9AB2-1E257AB1B655}
+	EndGlobalSection
+EndGlobal

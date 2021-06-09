@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejercicio de listas a nidadas", "Ejercicio de listas a nidadas\Ejercicio de listas a nidadas.pyproj", "{D3798EE2-4A9A-449E-A751-6E3F85A38DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3798EE2-4A9A-449E-A751-6E3F85A38DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3798EE2-4A9A-449E-A751-6E3F85A38DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55CC9E8-6D22-4EAA-990F-940725591E71}
+	EndGlobalSection
+EndGlobal

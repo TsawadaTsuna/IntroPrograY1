@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ciclos i9", "ciclos i9\ciclos i9.pyproj", "{27EFE138-4A16-4725-8A14-D9D549CA2373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27EFE138-4A16-4725-8A14-D9D549CA2373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EFE138-4A16-4725-8A14-D9D549CA2373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183519FC-FAF0-4AD6-9C43-B1E656CF3897}
+	EndGlobalSection
+EndGlobal

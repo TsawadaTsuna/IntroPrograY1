@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ahorcado", "ahorcado\ahorcado.pyproj", "{C4FC6082-E934-4816-8A5A-9689D1F3E256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4FC6082-E934-4816-8A5A-9689D1F3E256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FC6082-E934-4816-8A5A-9689D1F3E256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862FF08A-6727-41D2-A66B-2BD29DEEFED0}
+	EndGlobalSection
+EndGlobal

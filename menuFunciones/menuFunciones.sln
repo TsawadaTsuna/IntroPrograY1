@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "menuFunciones", "menuFunciones\menuFunciones.pyproj", "{8C867DCC-814C-463B-B34F-8CFE5E37924F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C867DCC-814C-463B-B34F-8CFE5E37924F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C867DCC-814C-463B-B34F-8CFE5E37924F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78301DC-A066-422F-9B1C-282DE0F869FB}
+	EndGlobalSection
+EndGlobal
